@@ -1,0 +1,6 @@
+temperature = float(input("Enter the temperature in °C: "))
+
+if temperature >= 20:
+    print("It's warm enough for light clothes!")
+elif 15 <= temperature < 20:
+    print("It's a bit cool — light")
