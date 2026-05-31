@@ -1,0 +1,8 @@
+sentence = 'hello world'
+
+
+print('hello' in sentence)
+
+print('python' in sentence)
+
+print('xyz' not in sentence) 
